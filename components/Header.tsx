@@ -11,7 +11,7 @@ export const Header: React.FC = () => {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-neon-coral to-neon-orange rounded-xl blur opacity-75"></div>
                 <div className="relative bg-dark-900/90 p-3 rounded-xl border border-white/20">
-                  <img src="../logo.png" alt="xalora" className="h-8 w-8" />
+                  <CodeIcon className="h-8 w-8 text-white" />
                 </div>
               </div>
               <div>
